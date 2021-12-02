@@ -16,7 +16,7 @@ Algoritmo PROGRAMA_GIT
 		// listamos los alumnos
 		
 		Para i<-0 hasta 10
-			Escribir "ALUMNO N? ",i+1,nombre[i];
+			Escribir "ALUMNO NUMERO ",i+1," SU NOMBRE ES ",nombre[i];
 		FinPara
 	
 FinAlgoritmo
