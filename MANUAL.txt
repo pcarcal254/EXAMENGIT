@@ -11,3 +11,8 @@ LISTA DE VERSIONES
 ------------------
 1.0 - El programa permite procesar hasta 10 alumnos
 2.0 - Muestra mejor los datos
+2.1 - Arreglo de errores
+
+VERSION EN DESARROLLO
+---------------------
+3.0 - Pide el numero de alumnos al usuario
